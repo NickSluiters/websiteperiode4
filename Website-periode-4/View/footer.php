@@ -15,7 +15,7 @@
           <div class="d-none d-xl-block">
             <p>Activity director</p>
           </div>
-        </div>
+        </div>.
         <div class="col-lg-1 col-xl-1.5 img-responsive2">
           <img src="images/stijnicon.png" alt="Stijn" class="img-responsive2">
         </div>

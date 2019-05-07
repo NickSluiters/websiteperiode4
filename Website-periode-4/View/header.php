@@ -14,7 +14,7 @@
     <body>
         <div>
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <a href="../Controller/index.php">
+      <a href="../index.php">
         <img class="img-responsive" src="images/logomwf.png" style=" position: absolute; z-index: 2;" alt="">
       </a>
       <p class="logofoot"> Move with Friends</p>

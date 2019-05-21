@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php include('header.html'); ?>
 <article class="container opacity shadow p-3 mb-4 mt-4 col-xl-8 bg-light">
     <div class="row">
       <div class="col-md-6 bg-light opacity">
@@ -27,4 +27,4 @@
     </div>
 </article>
 
-<?php include('footer.php'); ?>
+<?php include('footer.html'); ?>

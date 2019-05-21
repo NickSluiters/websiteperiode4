@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="nl">
-<?php include('header.php'); ?>
+<?php include('header.html'); ?>
 
 <article class="container opacity shadow p-3 mb-4 mt-4 col-xl-8 bg-light">
     <div class="wrapper">
@@ -35,4 +35,4 @@
 
 </article>
 
-<?php include('footer.php'); ?>
+<?php include('footer.html'); ?>
